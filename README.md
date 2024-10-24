@@ -17,6 +17,7 @@
 
 # Estrutura de diretórios
 
+```bash
 app/
     models/
         product_model.py
@@ -26,6 +27,7 @@ app/
         product_service.py
     repositories/
         product_repository.py
+```
 
 # 1. Criando o Modelo "Produto" (Model Layer)
 A primeira coisa que vamos fazer é criar o modelo para o produto. Ele vai refletir a estrutura básica do que é um produto na nossa aplicação.
